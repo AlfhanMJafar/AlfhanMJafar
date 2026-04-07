@@ -48,12 +48,10 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-<br clear="both">
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlfhanMJafar/AlfhanMJafar/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlfhanMJafar/AlfhanMJafar/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlfhanMJafar/AlfhanMJafar/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <img src="https://raw.githubusercontent.com/AlfhanMJafar/AlfhanMJafar/output/snake.svg" alt="Snake animation" />
