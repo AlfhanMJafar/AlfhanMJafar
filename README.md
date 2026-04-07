@@ -1,28 +1,15 @@
-<br clear="both">
-
-<h1 align="center">Hi there, I'mAlfhan M Jafar! 👋</h1>
-
-###
+<h1 align="center">Hi there, I'm Alfhan M Jafar! 👋</h1>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AlfhanMJafar.AlfhanMJafar&left_text=Profile%20Views"  />
 
-###
-
 <img align="right" height="200" src="https://i.giphy.com/HCkbgKLdLWq3OCV8YM.webp"  />
 
-###
-
+<br>
 <p align="center">🚀 Full Stack Developer | Python Specialist | UI Designer<br>I'm a developer who bridges the gap between robust backend logic and intuitive user experiences. I specialize in building scalable web applications, automating complex workflows with Python, and crafting seamless mobile experiences.</p>
-
-###
 
 <br clear="both">
 
 <h2 align="center">💻 Tech Stack</h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
@@ -48,15 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h2 align="center">📫 Connect with me</h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -67,20 +48,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlfhanMJafar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfhanMJafar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfhanMJafar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlfhanMJafar/AlfhanMJafar/output/pacman-contribution-graph-dark.svg">
@@ -88,8 +56,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlfhanMJafar/AlfhanMJafar/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <img src="https://raw.githubusercontent.com/AlfhanMJafar/AlfhanMJafar/output/snake.svg" alt="Snake animation" />
-
-###
