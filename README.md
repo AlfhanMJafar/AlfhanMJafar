@@ -4,11 +4,11 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/HCkbgKLdLWq3OCV8YM.webp"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AlfhanMJafar.AlfhanMJafar&left_text=Profile%20Views"  />
 
 ###
 
-<p align="center"></p>
+<img align="right" height="200" src="https://i.giphy.com/HCkbgKLdLWq3OCV8YM.webp"  />
 
 ###
 
@@ -16,9 +16,13 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack</h2>
+<br clear="both">
+
+<h2 align="center">💻 Tech Stack</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
@@ -45,6 +49,14 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<h2 align="center">📫 Connect with me</h2>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -79,11 +91,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/AlfhanMJafar/AlfhanMJafar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlfhanMJafar.AlfhanMJafar&"  />
-</div>
 
 ###
